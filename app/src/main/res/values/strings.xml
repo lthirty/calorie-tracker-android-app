@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">卡路里记录器</string>
+    <string name="hint_food_name">食物名称</string>
+    <string name="hint_calories">卡路里 (kcal)</string>
+    <string name="button_add">添加</string>
+    <string name="total_calories">总卡路里: %d kcal</string>
+    <string name="empty_list">暂无记录</string>
+</resources>
